@@ -1,5 +1,5 @@
 ## Hello Hypixel Players 👋
-We Are the Trojangs sniping group.A new and active aniping group made by iTrojang#7855
+We Are the Trojangs sniping group, a new and active aniping group made by iTrojang#7855
 
 ## Hypixel Tracker (TroTracker)
 This Hypixel tracker is open source it will be able to be used as a terminal app and a discord bot.
