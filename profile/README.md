@@ -5,7 +5,10 @@ We Are the Trojangs sniping group, a new and active aniping group made by iTroja
 This Hypixel tracker is open source it will be able to be used as a terminal app and a discord bot.
 
 ## Trojang Client
-This Client is for the Trojangs sniping group i am aiming for it to havs a lot of bypasses i also want to maks a /snipe ign command to join the targets lobby.
+This Client is for the Trojangs sniping group i am aiming for it to havs a lot of bypasses i also want to maks a /snipe ign command to join the targets lobby. Sadly, this will not be open source
+
+## Trojang Discord Bot
+This discord bot will have essntial sniping commands you will be able to add it to your server (This will be open source)
 
 ## Hypixel Guild
 Trusted members will be able to join the guild TROJANGS
