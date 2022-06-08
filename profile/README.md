@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hello Hypixel Players 👋
+We Are the Trojangs sniping group.A new and active aniping group made by iTrojang#7855
+
+## Hypixel Tracker (TroTracker)
+This Hypixel tracker is open source it will be able to be used as a terminal app and a discord bot.
+
+## Trojang Client
+This Client is for the Trojangs sniping group i am aiming for it to havs a lot of bypasses i also want to maks a /snipe ign command to join the targets lobby.
+
+## Hypixel Guild
+Trusted members will be able to join the guild TROJANGS
+
+## Friendly Community
+Anyone in our sniping group caught doxxing or other crimes will be kicked from our group
+
+## Join Now
+If you want to join send me a friend request iTrojang#7855 
+
+## Have a great day.
+
+
 
 <!--
 
