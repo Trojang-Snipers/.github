@@ -13,6 +13,9 @@ This discord bot will have essntial sniping commands you will be able to add it 
 ## Hypixel Guild
 Trusted members will be able to join the guild TROJANGS
 
+## Sniping Overlay (Troverlay)
+This overlay will have lots of sniping tools.
+
 ## Friendly Community
 Anyone in our sniping group caught doxxing or other crimes will be kicked from our group
 
